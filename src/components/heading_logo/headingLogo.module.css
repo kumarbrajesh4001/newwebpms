@@ -1,0 +1,13 @@
+.head {
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 3.06rem;
+  line-height: 5rem;
+  text-align: center;
+}
+
+@media (min-width: 713px) {
+  .head {
+    border-right: 1px solid #2e3192;
+  }
+}
